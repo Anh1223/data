@@ -91,7 +91,7 @@ configuration:
   disable-in-creative: false
   reset-hp-on-death: false
   use-hp-based-damage-multiplier: true
-  melee-damage-multiplier: 2.0
+  melee-damage-multiplier: 0.5
   use-groups-permissions: false
   heal-after-world-change: false
   heal-after-level-up: true
